@@ -1,0 +1,10 @@
+/home/ubuntu/dotnet/Lucao/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.deps.json
+/home/ubuntu/dotnet/Lucao/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.runtimeconfig.json
+/home/ubuntu/dotnet/Lucao/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.runtimeconfig.dev.json
+/home/ubuntu/dotnet/Lucao/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.dll
+/home/ubuntu/dotnet/Lucao/console-dotnet/bin/Debug/netcoreapp2.0/console-dotnet.pdb
+/home/ubuntu/dotnet/Lucao/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.csproj.CoreCompileInputs.cache
+/home/ubuntu/dotnet/Lucao/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.AssemblyInfoInputs.cache
+/home/ubuntu/dotnet/Lucao/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.AssemblyInfo.cs
+/home/ubuntu/dotnet/Lucao/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.dll
+/home/ubuntu/dotnet/Lucao/console-dotnet/obj/Debug/netcoreapp2.0/console-dotnet.pdb
