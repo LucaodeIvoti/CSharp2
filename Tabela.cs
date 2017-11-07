@@ -14,10 +14,9 @@ namespace Brasileirao
                 System.Console.WriteLine("Informe o nome do time: ");
                 string time = Console.ReadLine();
 
-                 System.Console.WriteLine("Informe a pontuação do time: ");
-                int pont = Convert.ToInt32(Console.ReadLine());
-
-                this.times.Add(new Times(time, pont));
+                 System.Console.WriteLine("pontuação do time: ");
+                int pontuacao = Convert.ToInt32(Console.ReadLine());
+                this.times.Add(new Times(time, pontuacao));
             }
 
             for (int i = 0; i < times.Count; i++) {
