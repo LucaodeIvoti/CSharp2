@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/dotnet/Lucao/console-dotnet/console-dotnet.csproj",
-      "projectName": "console-dotnet",
-      "projectPath": "/home/ubuntu/dotnet/Lucao/console-dotnet/console-dotnet.csproj",
+      "projectUniqueName": "/home/ubuntu/dotnet/Lucao/console-dotnet/Brasileirao.csproj",
+      "projectName": "Brasileirao",
+      "projectPath": "/home/ubuntu/dotnet/Lucao/console-dotnet/Brasileirao.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
       "outputPath": "/home/ubuntu/dotnet/Lucao/console-dotnet/obj/",
       "projectStyle": "PackageReference",

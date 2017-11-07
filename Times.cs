@@ -5,15 +5,15 @@ namespace Brasileirao
     class Times
     {
         private string time;
-        private int pont;
+        private int pontuacao;
 
-        public Times(string nomeTime, int pontuacao) {
+        public Times(string nomeTime, int pont) {
             this.time = nomeTime;
             this.pontuacao = pont;
         }
 
         public void dados() {
-            System.Console.WriteLine("\ntime: " + time + " | pontuação: " + pont);
+            System.Console.WriteLine("\nTime: " + time + " \nPontuacao: " + pontuacao);
         }
     }
 } 

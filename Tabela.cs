@@ -5,10 +5,10 @@ namespace Brasileirao
 {
     class Tabela
     {
-        public ListaTimes times = new ListaTimes();
+        public List<Times> times = new List<Times>();
         public void tabela() {
             System.Console.WriteLine("Tabela");
-            System.Console.WriteLine("1 - Adiciona times e pontuação/n2 - Mostra o resultado da tabela");
+            System.Console.WriteLine("Enter - Adiciona times e pontuação\n0 - Mostra o resultado da tabela");
 
             while (Console.ReadKey().Key == ConsoleKey.Enter) {
                 System.Console.WriteLine("Informe o nome do time: ");
