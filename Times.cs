@@ -1,19 +1,15 @@
 using System;
 
-namespace Brasileirao
+namespace tabelaCampeonato
 {
     class Times
     {
-        private string time;
-        private int pontuacao;
+        public string time;
+        public int pont;
 
-        public Times(string nomeTime, int pont) {
+        public Times(string nomeTime, int pontuacao) {
             this.time = nomeTime;
-            this.pontuacao = pont;
-        }
-
-        public void dados() {
-            System.Console.WriteLine("\nTime: " + time + " \nPontuacao: " + pontuacao);
+            this.pont = pontuacao;
         }
     }
 } 
